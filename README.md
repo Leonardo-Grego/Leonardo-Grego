@@ -1,11 +1,11 @@
 ## Opa, eu sou o Leonardo Grego 😎
 
 
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas 
+- 📚 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas (IFSP)
 - 🦾 Sempre estou me aprofundando e aprendendo
 - 👯 Estou em parceria com a ONG AMADAS(Associação de Mães e Pais de Autistas)
-- ⚡ Busco ser fullstack, mas ter destaque em Back-End!
-- 🕷️ Estou desenvolvendo um sistema chamado ARACNOIF
+- ⚡ Não trabalho na área, mas estou ansioso para começar!
+- 🕷️ Estou desenvolvendo um sistema chamado ARACNOIF 
 
 
 <div>
