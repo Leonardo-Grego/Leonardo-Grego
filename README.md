@@ -4,7 +4,7 @@
 - 📚 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas (IFSP)
 - ⚡ Não trabalho na área, mas estou ansioso para começar!
 - 🦾 Sempre estou me aprofundando e aprendendo
-- 👯 Estou em parceria com a ONG AMADAS(Associação de Mães e Pais de Autistas)
+- 👯 Estou em parceria com a ONG AMADAS (Associação de Mães e Pais de Autistas)
 - 🕷️ Estou desenvolvendo um sistema chamado ARACNOIF 
 
 
