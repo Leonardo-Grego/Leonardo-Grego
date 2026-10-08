@@ -24,4 +24,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Gre
    
 </a>
 
-<img src="imagens/Preto e Branco Currículo Simples da Área de Logística.pdf_page-0001.jpg" alt="Meu currículo">
+
